@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wedding-invitation
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -31,3 +32,7 @@ yarn dev
 ```sh
 yarn build
 ```
+=======
+# Wedding-Invitation
+모바일 청첩장
+>>>>>>> 8256190e3e63b20fd650d35e7fd9d4a59f0046f3
